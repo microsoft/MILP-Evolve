@@ -50,7 +50,7 @@ task_ids:
 
 ## Dataset Description
 
-- **Homepage:** [TBD]
+- **Homepage:** [The OptiGuide Project](https://www.microsoft.com/en-us/research/project/optiguide-genai-for-supply-chain-optimization/?msockid=1a1ccce4197d663e1c2bdd4318e1678d)
 - **Repository:** [MILP-Evolve](https://github.com/microsoft/MILP-Evolve)
 - **Paper:** [arXiv]([arXiv](https://arxiv.org/abs/2410.08288))
 - **Leaderboard:** Beibin Li, Ishai Menache, Sirui Li, Janardhan Kulkarni, Cathy Wu
@@ -218,8 +218,8 @@ Please cite the following paper when using the dataset:
 @article{li2024towards,
   author    = {Li, Sirui and Kulkarni, Janardhan and Wu, Cathy and Menache, Ishai and Li, Beibin},
   title     = {Towards Foundation Models for Mixed Integer Linear Programming},
-  journal   = {TBD},
-  year      = {2024}
+  booktitle = {The Thirteenth International Conference on Learning Representations},
+  year      = {2025}
 }
 ```
 
